@@ -1,0 +1,27 @@
+name: CI
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  build:
+    runs-on: ${{ matrix.os }}
+
+    strategy:
+      matrix:
+        nimversion:
+          - devel
+        os:
+          - ubuntu-latest
+          - macOS-latest
+          - windows-latest        
+
+    steps:
+    - uses: actions/checkout@v3
+    - uses: iffy/install-nim@v4
+      with:
+        version: ${{ matrix.nimversion }}
+    - run: nimble install -y
