@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "metaData": {
+    "url": "https://github.com/status-im/nim-chronicles",
+    "downloadMethod": "git",
+    "vcsRevision": "32ac8679680ea699f7dbc046e8e0131cac97d41a",
+    "files": [
+      "/chronicles/dynamic_scope_types.nim",
+      "/chronicles/options.nim",
+      "/chronicles/scope_helpers.nim",
+      "/chronicles/tail_plugins.nim",
+      "/chronicles/log_output.nim",
+      "/chronicles.nimble",
+      "/chronicles/topics_registry.nim",
+      "/chronicles/chronos_tools.nim",
+      "/chronicles/dynamic_scope.nim",
+      "/chronicles/timings.nim",
+      "/chronicles.nim",
+      "/chronicles/helpers.nim"
+    ],
+    "binaries": [],
+    "specialVersions": [
+      "0.10.3"
+    ]
+  }
+}

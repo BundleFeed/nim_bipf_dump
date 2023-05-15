@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "metaData": {
+    "url": "https://github.com/gpicron/nim_node_binding",
+    "downloadMethod": "git",
+    "vcsRevision": "68a0a6b3e8b545f442a40c716f0f8e66e520d120",
+    "files": [
+      "/node_binding.out",
+      "/node_binding/utils.nim",
+      "/node_binding.nim",
+      "/node_binding/jsNativeApiTypes.nim",
+      "/node_binding/nodeApi.nim",
+      "/node_binding/jsNativeApi.nim",
+      "/node_binding.nimble",
+      "/node_binding/napi.nim",
+      "/node_binding/nodeApiTypes.nim"
+    ],
+    "binaries": [
+      "node_binding"
+    ],
+    "specialVersions": [
+      "#68a0a6b3e8b545f442a40c716f0f8e66e520d120",
+      "0.1.0"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "metaData": {
+    "url": "https://github.com/BundleFeed/nim_bipf",
+    "downloadMethod": "git",
+    "vcsRevision": "c6d0dcc4381b80bfbfa82a07a0c6126a42d29ee8",
+    "files": [
+      "/nim_bipf/private/backend/c.nim",
+      "/nim_bipf.nimble",
+      "/nim_bipf/js/nodejs/binding.nim",
+      "/nim_bipf/js/wasm/binding.nim",
+      "/nim_bipf/serde_json.nim",
+      "/nim_bipf/private/bytebuffer_drop.nim",
+      "/nim_bipf/private/backend/js.nim",
+      "/nim_bipf/js/wasm/wrapper.nim",
+      "/nim_bipf/private/varint.nim",
+      "/nim_bipf/common.nim",
+      "/nim_bipf/private/deser.nim",
+      "/nim_bipf/bpath.nim",
+      "/nim_bipf/js/index.nim",
+      "/nim_bipf/private/backend/nodebuffer.nim",
+      "/nim_bipf/private/logging.nim",
+      "/nim_bipf.nim",
+      "/nim_bipf/builder.nim"
+    ],
+    "binaries": [],
+    "specialVersions": [
+      "#head",
+      "0.1.2"
+    ]
+  }
+}

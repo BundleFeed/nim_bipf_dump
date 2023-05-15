@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "metaData": {
+    "url": "https://github.com/status-im/nim-json-serialization",
+    "downloadMethod": "git",
+    "vcsRevision": "b06b8ca4b177a7d0f74ac602350316d95c2fddd5",
+    "files": [
+      "/json_serialization/std/sets.nim",
+      "/json_serialization/format.nim",
+      "/json_serialization/reader.nim",
+      "/json_serialization.nim",
+      "/json_serialization/std/tables.nim",
+      "/json_serialization/std/options.nim",
+      "/json_serialization.nimble",
+      "/json_serialization/std/net.nim",
+      "/json_serialization/types.nim",
+      "/json_serialization/stew/results.nim",
+      "/json_serialization/lexer.nim",
+      "/json_serialization/writer.nim"
+    ],
+    "binaries": [],
+    "specialVersions": [
+      "0.1.5"
+    ]
+  }
+}

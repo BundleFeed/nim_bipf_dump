@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "metaData": {
+    "url": "https://github.com/disruptek/ups",
+    "downloadMethod": "git",
+    "vcsRevision": "44be6ee0a254b340dbfe444212b5964121214618",
+    "files": [
+      "/ups/versions.nim",
+      "/ups.nim",
+      "/ups/config.nim",
+      "/ups/runner.nim",
+      "/ups.nimble",
+      "/ups/spec.nim",
+      "/ups/sanitize.nim",
+      "/ups/paths.nim"
+    ],
+    "binaries": [],
+    "specialVersions": [
+      "0.0.8"
+    ]
+  }
+}

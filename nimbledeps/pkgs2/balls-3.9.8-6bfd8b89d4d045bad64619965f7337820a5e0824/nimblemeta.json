@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "metaData": {
+    "url": "https://github.com/disruptek/balls",
+    "downloadMethod": "git",
+    "vcsRevision": "2f5de562e42604009bc4b47f71cec0285b3b9681",
+    "files": [
+      "/balls/spec.nim",
+      "/tests/templates.nim",
+      "/balls/semaphores.nim",
+      "/balls.nimble",
+      "/examples/fails.nim",
+      "/balls/tabouli.nim",
+      "/balls.out",
+      "/balls/style.nim",
+      "/balls.nim",
+      "/balls/runner.nim",
+      "/tests/test.nim"
+    ],
+    "binaries": [
+      "balls"
+    ],
+    "specialVersions": [
+      "3.9.8"
+    ]
+  }
+}

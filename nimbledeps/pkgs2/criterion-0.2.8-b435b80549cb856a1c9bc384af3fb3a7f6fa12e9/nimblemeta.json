@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "metaData": {
+    "url": "https://github.com/disruptek/criterion",
+    "downloadMethod": "git",
+    "vcsRevision": "12b47b3e26d4c83e15b423f8a46546a30d4d92b2",
+    "files": [
+      "/criterion/impl.nim",
+      "/criterion/timer.nim",
+      "/criterion/sugar.nim",
+      "/criterion/cycles.nim",
+      "/criterion.nimble",
+      "/criterion/consoleExporter.nim",
+      "/criterion/blackbox.nim",
+      "/criterion/config.nim",
+      "/criterion/exporter.nim",
+      "/criterion/statistics.nim",
+      "/criterion.nim",
+      "/criterion/jsonExporter.nim"
+    ],
+    "binaries": [],
+    "specialVersions": [
+      "0.2.8"
+    ]
+  }
+}
