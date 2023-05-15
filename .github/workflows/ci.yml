@@ -11,6 +11,6 @@ jobs:
       - uses: actions/checkout@v2
       - uses: iffy/install-nim@v4
         with:
-          version: git:1.6.12
+          version: git:v1.6.12
       - run: nimble install -y
       - run: nimble test
