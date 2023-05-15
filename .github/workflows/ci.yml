@@ -9,8 +9,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: iffy/install-nim@v4
+      - uses: iffy/install-nim@v4.7.1
         with:
-          version: git:v1.6.12
+          version: binary:stable
       - run: nimble install -y
       - run: nimble test
