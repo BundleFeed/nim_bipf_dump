@@ -1,1 +1,0 @@
-import ups/config
